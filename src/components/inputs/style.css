@@ -1,0 +1,18 @@
+.character-input{
+    margin-bottom: 42px;
+}
+
+
+.character-input p{
+    font-family: 'Ubuntu Mono', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #333333;
+    margin-bottom: 16px;
+}
+
+.character-input .demostration{
+    color: #828282;
+}

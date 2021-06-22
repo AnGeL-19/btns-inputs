@@ -1,0 +1,26 @@
+
+
+
+.character-btn{
+    margin-bottom: 45px;
+}
+
+.character-btn p,.link-material-icon{
+    font-family: 'Ubuntu Mono', monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #333333;
+    margin-bottom: 12px;
+}
+
+.link-material-icon{
+    margin-bottom: 34px;
+}
+
+.character-btn .demostration{
+    color: #828282;
+}
+
+

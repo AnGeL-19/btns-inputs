@@ -1,0 +1,51 @@
+.devPage{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 19px;
+    text-decoration: none;
+    
+}
+
+.devPage .orange{
+    color: rgb(221, 81, 0);
+}
+
+.devPage b{
+    color: black;
+}
+
+.item-navbar{
+    margin-top: 122px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.item-navbar .item {
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9E9E9E;
+    margin-bottom: 25px;
+}
+
+.item-navbar .item:hover {
+    color: #5c5c5c;
+}
+
+
+.active {
+    color: #090F31;
+}
+/* 
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu Mono', monospace;
+font-family: 'Montserrat', sans-serif;
+*/

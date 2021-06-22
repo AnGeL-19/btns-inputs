@@ -1,0 +1,165 @@
+
+.title-input,input,.helper,.txt-area{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.title-input{
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    color: #333333;
+
+    margin-bottom: 5px;
+}
+
+
+input{
+    padding: 18px 12px;
+    height: 56px;
+    width: 200px;
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 8px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #828282;
+
+    outline: none;
+}
+
+
+
+input:hover{
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+input:focus{
+    border: 1px solid #2962FF;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.default-demo-hover{
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.default-demo-focus{
+    border: 1px solid #2962FF;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.default-demo-hover{
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.default-demo-focus{
+    border: 1px solid #2962FF;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.error-container .error-lbl{
+    color: #D32F2F;
+}
+
+.error-container .error-inp{
+    border: 1px solid #D32F2F; 
+}
+
+.error-container .error-inp:focus{
+    border: 1px solid #D32F2F; 
+}
+
+.error-container .error-inp:hover{
+    border: 1px solid #333333;
+}
+
+.helper{
+    margin-top: 4px;
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    color: #828282;
+}
+
+.input-i{
+    position: relative;
+    height: 56px;
+    width: 200px;
+}
+
+.startIcon{
+    padding-left: 40px;
+}
+
+.endIcon{
+    padding-right: 40px;
+}
+
+.start{
+    color: #828282;
+    position: absolute;
+    left: 12px;
+    top: 16px;
+}
+
+.end{
+    color: #828282;
+    position: absolute;
+    right: 12px;
+    top: 16px;
+}
+
+.input-i #in:focus + i{
+    color: #2962FF;
+}
+
+.sm-input{
+    width: 200px;
+    height: 40px;
+}
+
+.md-input{
+    width: 200px;
+    height: 56px;
+}
+
+.fullWith{
+    position: relative;
+    width: 100%;
+}
+
+.txt-area{
+    width: 200px;
+    height: 150px;
+    padding: 18px 12px;
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 8px;
+    outline: none;
+    text-decoration: none;
+    resize: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+
+
+
